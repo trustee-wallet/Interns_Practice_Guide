@@ -1,6 +1,6 @@
-#BlockSoft Smart-contracts practice
+# BlockSoft Smart-contracts practice
 
-##Solidity
+## Solidity
 [(http://solidity.readthedocs.io/en/develop/)](http://solidity.readthedocs.io/en/develop/)
 
 1. Материалы для ознакомления:
@@ -33,7 +33,7 @@
    - Контракт должен учитывать, что количество адресов которые голосуют может быть четным и нечетным.  
 
 
-##Web3.js (Node.JS lib)
+## Web3.js (Node.JS lib)
 [(http://web3js.readthedocs.io/en/1.0/index.html)](http://web3js.readthedocs.io/en/1.0/index.html)
 
 1. Научиться определять баланс ETH на заданном адресе.
@@ -43,7 +43,7 @@
 5. Написать скрипт определения баланса ERC20 токенов заданного контракта на адресе (списке адресов).
 
 
-##Web3.js (client lib)
+## Web3.js (client lib)
 [(https://github.com/ethereum/wiki/wiki/JavaScript-API)](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 
 1. Подключить, настроить и попробовать подключиться к Ropsten Testnet
@@ -55,12 +55,12 @@
 4. ...
 
 
-##Smart-contracts security
+## Smart-contracts security
 
 [Атаки на умные контракты Ethereum](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 
 
-##Truffle test
+## Truffle test
 
 1. Научиться писать тесты на JavaScript для смарт контрактов.
    Полезные материалы:
@@ -75,7 +75,7 @@
 4. Написать тест для контракта, в котором при деплойменте контракта задаються параметры в конструктор.
 
 
-##Atomic Swap
+## Atomic Swap
 1. Ознакомиться:
    - [Atomic Swaps](https://bitcointechtalk.com/atomic-swaps-d6ca26b680fe);
    - [On-Chain Atomic Swaps](https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/).
