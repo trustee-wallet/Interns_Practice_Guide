@@ -10,7 +10,11 @@
    - [Разработка умных контрактов на Solidity](https://habrahabr.ru/post/312008/).
 2. Написать свой самый простой ERC-20 токен (скомпилировать в truffle, закинуть на Ropsten TestNet, предоставить ссылку на контракт, код проекта на GitHub и показать тестовые транзакции по переводу токенов между несколькими (минимум 3) адресами.
    Перевод токенов можно осуществить с помощью MyEtherWallet. `(4 дня)`
-   Ссылки на материалы и сервисы:
+   Научиться основам Solidity - пройти [урок1](https://cryptozombies.io/en/lesson/1) и [урок2](https://cryptozombies.io/en/lesson/2) на пути создания криптозомби
+   Материалы по созданию и запуску токенов:
+   - [Создание и запуск токенов - быстро и весело](https://medium.com/bitfwd/how-to-issue-your-own-token-on-ethereum-in-less-than-20-minutes-ac1f8f022793);
+   - [А теперь - фундаментально и качественно](https://www.ethereum.org/token).
+   Необходимые для выполнения задания материалы и сервисы:
    - [ERC-20 token standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard);
    - [Truffle docs](http://truffle.readthedocs.io/en/beta/);
    - [Truffle github](https://github.com/trufflesuite/truffle/);
@@ -19,7 +23,9 @@
    - [GitHub](https://github.com/) и [Git](https://git-scm.com/docs) 
 3. Опубликовать исходный код контракта в Ropsten TestNet `(1 день)`.
 4. Изучить контракт [токена Edgeless](https://etherscan.io/token/Edgeless) и разобраться чем он отличается от стандартного ERC20 токена `(1 день)`.
-5. Написать свой ERC-20 токен с возможность сжигания определенного количества токенов после определенной даты (скомпилировать в truffle, закинуть на Ropsten TestNet, предоставить ссылку на контракт, код проекта на GitHub и показать тестовые транзакции по переводу токенов между несколькими (минимум 3) адресами `(1 день)`.
+   - [Edgeless Whitepaper](https://coss.io/documents/white-papers/edgeless.pdf);
+   - [код контракта на Solidity](https://github.com/EdgelessCasino/Smart-Contracts).
+5. Завершить [урок3](https://cryptozombies.io/en/lesson/3) по созданию криптозомби. Написать свой ERC-20 токен с возможность сжигания определенного количества токенов после определенной даты (скомпилировать в truffle, закинуть на Ropsten TestNet, предоставить ссылку на контракт, код проекта на GitHub и показать тестовые транзакции по переводу токенов между несколькими (минимум 3) адресами `(1 день)`.
 6. Написать ERC-20 токен с двумя владельцами (дополнительно реализовать возможность добавлять владельцев при согласии больше половины текущих владельцев) `(1-2 дня)`.
 7. Добавить в ERC-20 токен функционал выплаты дивидендов в ETH, при поступлении ETH на баланс контракта токена. Дивиденды распределять пропорционально количеству токенов `(3 дня)`.
    - [Iterable Mapping pattern](https://github.com/ethereum/dapp-bin/blob/master/library/iterable_mapping.sol);
