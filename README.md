@@ -20,7 +20,7 @@
    - [Truffle github](https://github.com/trufflesuite/truffle/);
    - [Ropsten Testnet](https://ropsten.etherscan.io/);
    - [MyEtherWallet](https://www.myetherwallet.com/);
-   - [MetaMask - расширение для Google Chrome, помогающее при работе с MyEtherWallet](www.metamask.io);
+   - [MetaMask](www.metamask.io);
    - [GitHub](https://github.com/) и [Git](https://git-scm.com/docs)
 3. Опубликовать исходный код контракта в Ropsten TestNet `(1 день)`.
 4. Изучить контракт [токена Edgeless](https://etherscan.io/token/Edgeless) и разобраться чем он отличается от стандартного ERC20 токена `(1 день)`.
