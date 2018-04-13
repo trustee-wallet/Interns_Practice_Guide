@@ -20,7 +20,8 @@
    - [Truffle github](https://github.com/trufflesuite/truffle/);
    - [Ropsten Testnet](https://ropsten.etherscan.io/);
    - [MyEtherWallet](https://www.myetherwallet.com/);
-   - [GitHub](https://github.com/) и [Git](https://git-scm.com/docs) 
+   - [MetaMask - расширение для Google Chrome, помогающее при работе с MyEtherWallet](www.metamask.io);
+   - [GitHub](https://github.com/) и [Git](https://git-scm.com/docs)
 3. Опубликовать исходный код контракта в Ropsten TestNet `(1 день)`.
 4. Изучить контракт [токена Edgeless](https://etherscan.io/token/Edgeless) и разобраться чем он отличается от стандартного ERC20 токена `(1 день)`.
    - [Edgeless Whitepaper](https://coss.io/documents/white-papers/edgeless.pdf);
@@ -32,8 +33,8 @@
    - [Смарт контракты Ethereum: структурируем токены как акции](https://habrahabr.ru/post/328246/);
    - [Альтернативная библиотека для Iterable Mapping](https://github.com/szerintedmi/solidity-itMapsLib).
 8. Написать контракт, который распределяет ERC20 токены описанные другим контрактом (дополнительно реализовать функцию дополнительной эмиссии этих же токенов) `(1-2 дня)`.
-9. Написать контракт MultiSig, который реализует функцию голосования за раздачу токенов на определенный адрес с определенной суммой `(2 дня)`. 
-   Условия: 
+9. Написать контракт MultiSig, который реализует функцию голосования за раздачу токенов на определенный адрес с определенной суммой `(2 дня)`.
+   Условия:
    - Выдавать токены на адрес только после того, как количество проголосовавших “ЗА” больше, чем половина.
    - Реализовать свойство контракта которое позволит повторно голосовать за раздачу токенов на один и тот же адрес.
    - Контракт должен учитывать, что количество адресов, которые голосуют может быть четным и нечетным.  
@@ -87,12 +88,3 @@
 2. Изучить [Decred cross-chain atomic swapping](https://github.com/decred/atomicswap/) `(1-2 дня)`.
 3. Разобраться и повторить, обменять [Ropsten ether на Rinkeby ether](https://medium.com/@DontPanicBurns/ethereum-cross-chain-atomic-swaps-5a91adca4f43) `(1-2 дня)`
 4. Переделать контракты из пункта 3 , так чтобы, параметры задавались через конструктор при деплойменте контракта. Обменять Ropsten ether на Rinkeby ether `(1 день)`.
-
-
-
-
-
-
-
-
-
