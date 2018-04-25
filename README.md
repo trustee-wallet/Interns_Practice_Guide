@@ -40,6 +40,9 @@
    - Контракт должен учитывать, что количество адресов, которые голосуют может быть четным и нечетным.
 10. Завершить [урок 4](https://cryptozombies.io/en/lesson/4) и [урок 5](https://cryptozombies.io/en/lesson/5) по созданию криптозомби `(1-2 дня)`.
 
+#### Дополнительные материалы
+1. [Рекомендации по оформлению кода на Solidity](http://solidity.readthedocs.io/en/develop/style-guide.html)
+2. [Распространенные шаблоны и подходы при написании смарт-контрактов](http://solidity.readthedocs.io/en/develop/common-patterns.html)
 
 ## Web3.js (Node.JS lib)
 [(http://web3js.readthedocs.io/en/1.0/index.html)](http://web3js.readthedocs.io/en/1.0/index.html)
