@@ -1,4 +1,4 @@
-# BlockSoft Smart-contracts practice
+# BlockSoftLab Smart-contracts practice
 
 ## Solidity
 [(http://solidity.readthedocs.io/en/develop/)](http://solidity.readthedocs.io/en/develop/)
