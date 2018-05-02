@@ -14,7 +14,8 @@
    Материалы по созданию и запуску токенов:
    - [Создание и запуск токенов - быстро и весело](https://medium.com/bitfwd/how-to-issue-your-own-token-on-ethereum-in-less-than-20-minutes-ac1f8f022793);
    - [А теперь - фундаментально и качественно](https://www.ethereum.org/token).
-   Необходимые для выполнения задания материалы и сервисы:
+
+     Необходимые для выполнения задания материалы и сервисы:
    - [ERC-20 token standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard);
    - [Truffle docs](http://truffle.readthedocs.io/en/beta/);
    - [Truffle github](https://github.com/trufflesuite/truffle/);
