@@ -62,7 +62,7 @@
    - [Client web3.js](https://github.com/ethereum/web3.js/);
    - [Ropsten Testnet](https://ropsten.etherscan.io/);
    - [Infura service](https://infura.io/) (тут нужно получить API ключь для удаленного подключения к сети Ethereum).
-2. Разобраться с проектом - примером Ethereum Pet Shop. По возможности переключить его на работу с Ropsten Testnet через infura.io `(1 день)`
+2. Разобраться с проектом - примером [Ethereum Pet Shop](http://truffleframework.com/tutorials/pet-shop). По возможности переключить его на работу с [Ropsten Testnet](https://ropsten.etherscan.io/) через [Infura](https://infura.io/) `(1 день)`
 3. Завершить [урок 6](https://cryptozombies.io/en/lesson/6) по взаимодействию с криптозомби через web3.
 
 
