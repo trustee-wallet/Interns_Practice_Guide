@@ -25,7 +25,7 @@
    - [Truffle github](https://github.com/trufflesuite/truffle/);
    - [MyEtherWallet](https://www.myetherwallet.com/);
    - [MetaMask](https://metamask.io/);
-3. Опубликовать исходный код контракта в Ropsten TestNet `(1 день)`.
+3. Опубликовать исходный код контракта в TestNet `(1 день)`.
 4. Изучить контракт [токена Edgeless](https://etherscan.io/token/Edgeless) и разобраться чем он отличается от стандартного ERC20 токена `(1 день)`.
    - [код контракта на Solidity](https://github.com/EdgelessCasino/Smart-Contracts);
 5. Написать свой ERC-20 токен с возможность сжигания определенного количества токенов после определенной даты (закинуть на TestNet, предоставить ссылку на контракт, показать тестовые транзакции по переводу токенов между несколькими (минимум 3) адресами `(1 день)`.
