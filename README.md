@@ -13,7 +13,7 @@
    - [Поняття смарт-контракт](https://forklog.com/chto-takoe-smart-kontrakt/);
    - [Вступ до розробки смарт-контрактів Ethereum](https://habrahabr.ru/post/335710/);
    - [Розробка смарт-контрактів на Solidity](https://habrahabr.ru/post/312008/).
-2. Написати свій найпростіший ERC-20 токен (скомпілювати в Remix або Truffle, закинути в будь-який TestNet, надати посилання на контракт, показати тестові транзакції з переказу токенів між декількома (мінімум 3) адресами. Переказ токенів можна здійснити за допомогою MyEther Wallet. `(2 дні)`
+2. Написати свій найпростіший ERC-20 токен (скомпілювати в Remix або Truffle, закинути в будь-який TestNet, надати посилання на контракт, показати тестові транзакції з переказу токенів між декількома (мінімум 3) адресами. Переказ токенів можна здійснити за допомогою MyEther Wallet. Дослідити транзакцію в Etherscan: розібратись за що відповідає кожен з параметрів, які показані в Etherscan. `(2 дні)`
    Матеріали зі створення та запуску токенів:
    - [Створення та запуск токенів](https://medium.com/bitfwd/how-to-issue-your-own-token-on-ethereum-in-less-than-20-minutes-ac1f8f022793);
    - [Фундамент](https://www.ethereum.org/token).
@@ -24,6 +24,7 @@
    - [Truffle github](https://github.com/trufflesuite/truffle/);
    - [MyEtherWallet](https://www.myetherwallet.com/);
    - [MetaMask](https://metamask.io/);
+   - [Etherscan](https://etherscan.io/);
 3. Опублікувати вихідний код контракту в TestNet `(1 день)`.
 4. Дослідити контракт [токена Edgeless](https://etherscan.io/token/Edgeless) і розібратися чим він відрізнятися від стандартного ERC-20 токена. `(1 день)`.
    - [код контракту на Solidity](https://github.com/EdgelessCasino/Smart-Contracts);
