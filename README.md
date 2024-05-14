@@ -2,13 +2,13 @@
 
 ## Solidity
 
-#### Материалы
+#### Матеріали
 1. [Solidity doc](http://solidity.readthedocs.io/en/develop/)
 2. [Рекомендації щодо оформлення коду Solidity](http://solidity.readthedocs.io/en/develop/style-guide.html)
 3. [Розповсюджені шаблони та підходи для написання смарт-контрактів](http://solidity.readthedocs.io/en/develop/common-patterns.html)
 4. [Cryptozombies](https://cryptozombies.io/)
 
-#### Задачи
+#### Задачі
 1. Матеріали для ознайомлення `(1-2 дні)`:
    - [Поняття смарт-контракт](https://forklog.com/chto-takoe-smart-kontrakt/);
    - [Вступ до розробки смарт-контрактів Ethereum](https://habrahabr.ru/post/335710/);
